@@ -13,3 +13,4 @@ You'll find the user guide and all documentation [here](https://flask-restful.re
 To Run 
 
 python setup.py develop
+python api.py
